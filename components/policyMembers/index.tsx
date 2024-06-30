@@ -1,5 +1,5 @@
 import React from "react";
-import Title from "../title";
+import Title from "../sectionTitle";
 import Options from "./options";
 import OneItem from "./rowItem";
 
